@@ -1,0 +1,28 @@
+name: livefit
+favicon: null
+layout_spectrum: 0.2945025749504566
+typography_spectrum: 0.5080142510123551
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9646411738358438
+  lightness: 0.8279497816693038
+  saturation: 0.2511958235409111
+  rhythmicContrast: 0.2291111098602414
+purpose: []
